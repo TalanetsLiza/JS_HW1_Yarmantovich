@@ -17,6 +17,7 @@ const a16 = 1 || 0;
 const a17 = false || true;
 const a18 = true > 0;
 
+console.log("\nTask 2");
 console.log(a1, typeof a1);
 console.log(a2, typeof a2);
 console.log(a3, typeof a3);
